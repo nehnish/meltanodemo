@@ -1,0 +1,1 @@
+{"dsx_artifact_type":"datasource","type":"BigSQL","description":"","host":"","port":"","URL":"jdbc:db2://dv-server:32051/bigsql","webHDFSURL":"","webHCatURL":"","livyURL":"","driverClassName":""}
